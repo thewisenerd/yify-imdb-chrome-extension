@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "IMDB Yify Torrents",
   "description": "This extension shows yify torrent links on imdb page of a movie.",
-  "version": "1.0",
+  "version": "1.0.1",
   "permissions": [
     "https://yts.re/",
     "tabs",
